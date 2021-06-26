@@ -1,4 +1,4 @@
-Blockchain SmartContract
+#Blockchain SmartContract
 
 The Blockchain technology can be used in applications beyond cryptocurrency. In this lab, we explore the Blockchain application for logging the operation trace of a remote file-storage service. This features a common use of the Blockchain, that is, making the data about a third-party transparent to invite trusts. The learning objective of this lab is for students to design and implement a simple service for secure distributed file system (SDFS) and use the Blockchain technology to log the service related information. The target system consists of a client supporting multiple file-system users and a server storing a file.
 
